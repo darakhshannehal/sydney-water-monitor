@@ -14,4 +14,4 @@ Currently, the dataset includes entries up to April 2025. This app has the poten
 
 Beyond pathogen monitoring, this framework can be adapted for **real-time decision-making in public health**, including climate change, environmental hazards, and epidemic intelligence. 
 
-**Sydney Beach Water Monitor App** [](https://adm2ru-darakhshan-nehal.shinyapps.io/bw-tracker/) | Deployment: shinyapps.io
+ [**Sydney Beach Water Monitor App**](https://adm2ru-darakhshan-nehal.shinyapps.io/bw-tracker/) | Deployment: shinyapps.io
