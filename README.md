@@ -2,7 +2,7 @@
 
 For #TidyTuesday – 2025-05-20 | Water Quality at Sydney Beaches (https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-05-20/readme.md)
 
-I have developed a Shiny app that enables users to assess **Enterococci** contamination risk at Sydney swim sites.  
+Shiny web application that enables users to assess **Enterococci** contamination risk at Sydney swim sites.  
 
 Designed for public accessibility, the layout ensures clear interpretation of risk indicators.  
 
