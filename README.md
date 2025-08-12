@@ -1,6 +1,8 @@
 ## Sydney Beach Water Monitor
 
-Shiny web application that enables users to assess **Enterococci** contamination risk at Sydney swim sites.  
+
+**Shiny** web application built in **R** that enables users to assess **Enterococci contamination** risk at Sydney swim sites.  
+
 
 
 ![App Preview](preview.png)
