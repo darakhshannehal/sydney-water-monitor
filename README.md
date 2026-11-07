@@ -23,6 +23,6 @@ Beyond pathogen monitoring, this framework can be adapted for **real-time decisi
 - **rsconnect**:	Deployment to shinyapps.io
 
 
-**View the live app**: [**Sydney Beach Water Monitor App**](https://adm2ru-darakhshan-nehal.shinyapps.io/bw-tracker/) | **Deployment**: shinyapps.io
+**View the live app**: [**Sydney Beach Water Monitor App**](https://connect.posit.cloud/darakhshannehal/content/01a1b74d-24d4-ef6f-744c-bac7c17404ff?utm_source=rsconnect-rstudio) 
 
 **Data**: **#TidyTuesday** (2025-05-20) |  [Water Quality at Sydney Beaches](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-05-20/readme.md)
