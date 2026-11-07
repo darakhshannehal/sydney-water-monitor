@@ -96,12 +96,12 @@ server <- function(input, output, session) {
   output$map <- renderLeaflet({
     if (nrow(filtered_data()) == 0) {
       leaflet() %>%
-        addProviderTiles("OpenStreetMap") %>%
+        addProviderTiles("Stadia.AlidadeSmooth") %>%
         setView(lng = 151.2093, lat = -33.8688, zoom = 9)  # Default location (Sydney)
     } else {
       leaflet(filtered_data()) %>%
         addSearchOSM() %>%
-        addProviderTiles("OpenStreetMap") %>%
+        addProviderTiles("Stadia.AlidadeSmooth") %>%
         setView(
           lng = mean(filtered_data()$longitude, na.rm = TRUE),
           lat = mean(filtered_data()$latitude, na.rm = TRUE),
